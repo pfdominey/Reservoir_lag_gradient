@@ -9,3 +9,4 @@ https://github.com/kalekiu/easyesn/issues/12
     Narrative-Integration-Reservoir/in_small.npy, out_small.npy
 3. to get the embeddings for wikipedia2vec
 https://huggingface.co/jinmang2/dooly-hub/blob/0fcf5b24ba3748253300579ecaac0de546aec668/word_embedding/en/wikipedia2vec.en/enwiki_20180420_100d.pkl
+4. The parameter breadth allows specification of the 600, 400 and 800 unit variations as described in the paper.
